@@ -1,0 +1,1 @@
+This folder is intended for the application to store the credentials.

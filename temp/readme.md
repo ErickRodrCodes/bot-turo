@@ -1,0 +1,1 @@
+this folder is intended to be used as default location for the videos to be parsed and upload to youtube.

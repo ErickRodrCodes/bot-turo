@@ -1,0 +1,33 @@
+{
+  "name": "bot-turo",
+  "version": "1.0.0",
+  "description": "An automated bot that will upload videos on youtube.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbogard/bot-turo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbogard/bot-turo/issues"
+  },
+  "homepage": "https://github.com/tbogard/bot-turo#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^9.0.2",
+    "fs-jetpack": "^4.1.0",
+    "google-auth-library": "^7.0.4",
+    "googleapis": "^73.0.0"
+  },
+  "engines": {
+    "node": "^12.6.3",
+    "yarn": "^1.22.10",
+    "nvs": "^1.6.0"
+  },
+  "engineStrict": true
+}
